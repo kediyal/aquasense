@@ -23,7 +23,7 @@ AquaSense allows users to input various parameters, sends this data to a cloud-b
 
 The app is currently configured with placeholders for endpoints, so it’s ready for you to integrate with your API of choice. 
 
-**Disclaimer:** I didn't track this project when developing it, and I deployed it 1 year later. I don't exactly remember what I wanted to change, and what the pitfalls were.
+**Disclaimer:** I didn't track this project when developing it, and I deployed it to GitHub 1 year later. I don't exactly remember what I wanted to change, and what the pitfalls were.
 
 ## Features
 - **Input-to-Prediction Pipeline**: Users enter data, which is processed and sent to a cloud API.
