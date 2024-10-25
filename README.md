@@ -39,3 +39,5 @@ I used Azure Functions as the backend, but you’re free to adapt this to any ba
 ## Notes
 
 - **Environment Variables**: While I didn’t use them back then (college project deadlines, you know?), I encourage you to implement them for sensitive information.
+- **Hardcoded Paths**: I'm using hardcoded paths specific to my system, so please replace them with correct paths that suit your environment. Yes, I was lazy about that too!
+
